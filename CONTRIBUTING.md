@@ -1,2 +1,3 @@
-
-you should be good
+-> you should be good.
+-> You should document your code and deliver high quality code.
+-> And you should be using tabs over spaces and VIM over EMACS.
